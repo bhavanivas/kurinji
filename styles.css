@@ -80,6 +80,7 @@ h3 {
   width: 100%;
   z-index: 99;
   max-height: 20vh;
+  text-align: center;
 }
 .logo {
   position: sticky;
