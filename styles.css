@@ -99,3 +99,6 @@ h3 {
 @font-face {
   font-family: 'Bely', monospace;
 }
+.picture {
+  max-width: 80vw;
+}
